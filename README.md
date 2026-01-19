@@ -84,4 +84,4 @@ For inquiries regarding the guides or licensing discussions: [ferz.ai](https://f
 
 ---
 
-© 2025 FERZ LLC. All rights reserved.
+© 2026 FERZ, Inc. All rights reserved.
