@@ -70,7 +70,7 @@ Licensed under CC BY 4.0.
 
 ## Canonical Source
 
-The official download location is [ferzconsulting.com/services-overview/strategic-advisory-services/ai-governance-executive-guides](https://ferzconsulting.com/services-overview/strategic-advisory-services/ai-governance-executive-guides).
+The official download location is [ferz.ai/services-overview/strategic-advisory-services/ai-governance-executive-guides](https://ferz.ai/services-overview/strategic-advisory-services/ai-governance-executive-guides).
 
 This repository mirrors the official releases for version control and citability.
 
