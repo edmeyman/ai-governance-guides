@@ -63,7 +63,7 @@ Under the following terms:
 When citing or reusing this work, use:
 
 ```
-FERZ LLC, "AI Governance Executive Guide Series," 2025. 
+FERZ, Inc., "AI Governance Executive Guide Series," 2025-2026.
 Available at https://github.com/edmeyman/ai-governance-guides
 Licensed under CC BY 4.0.
 ```
