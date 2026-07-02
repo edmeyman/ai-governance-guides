@@ -45,7 +45,7 @@ The unit of governance is not "the model" — it's an AI system performing a def
 
 ## Technical Foundation
 
-These guides are built on the [Four Tests Standard (4TS)](https://github.com/edmeyman/4ts-standard), an open specification for verifiable AI governance. 4TS defines what it means for an AI decision to be governed: authorized, validated, monitored, and auditable.
+These guides are built on the [Five Tests Standard (5TS)](https://github.com/edmeyman/4ts-standard), an open specification for verifiable AI governance. 4TS defines what it means for an AI decision to be governed: authorized, validated, monitored, and auditable.
 
 ## License
 
